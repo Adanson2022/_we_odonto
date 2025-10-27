@@ -1,0 +1,87 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+    font-family:'Trebuchet MS';
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: #268fbe;
+    padding: 10px 20px 0px;
+    line-height: 25px;
+}
+.header {
+    background-color: rgb(5, 108, 108);
+    height: 300px;
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    text-align: justify;
+}
+.footer {
+    background-color: #551bb3;
+    min-height: 150px;
+    color: white;
+    padding: 5px;
+}
+fieldset {
+    border-radius: 5px;
+    text-align: center;
+}
+h1 {
+    color: #268fbe;
+}
+
+h2 {
+    color: #268fbe;
+}
+table {
+    -webkit-box-shadow: 8px 9px 5px 3px rgba(0,0,0,0.53); 
+    box-shadow: 8px 9px 5px 3px rgba(0,0,0,0.53);
+    border: solid 0.2px black;
+    text-align: center;
+}
+table tr:hover td {
+    background-color: #268fbe;
+    cursor: pointer;
+}
+table thead th {
+    background-color: rgb(155, 129, 240);
+}
+tbody tr:nth-child(even) {
+    background-color: rgb(222, 222, 222);
+}
+iframe {
+    padding-left: 40px;
+}
+label {
+    width: 70px;
+    text-align: left;
+    display: inline-block;
+    padding-right: 5px;
+    margin: 5px;
+}
+textarea {
+    margin: 5p;
+    padding: 5px;
+}
+button {
+    cursor: pointer;
+}
