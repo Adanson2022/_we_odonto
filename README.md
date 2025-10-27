@@ -1,74 +1,36 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+<p align="center">
+  <img width="450" src="https://github.com/Adanson2022/_usando-tags/blob/WE.Odonto.png">
+</p>
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
-- Formulários
-- Estruturação e formatação de texto
-- Mídias
-- Tabelas
+# WE.Odonto
 
-Além de outros recursos falados nas aulas!
+Site completo feito em HTML para conclusão de módulo do curso de HTML. O site foi criado pensando em oferecer um serviço odontológico, tudo fictício desde o nome WE.Odonto até o endereço.
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+## Tecnologias Utilizadas
 
-Abaixo como cada página deve ser criada e estruturada.
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-### Estrutura das páginas
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+## Como começar
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
+### Método 1
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+1. **Faça o download deste projeto;**
+2. **Abra o VSCode(Visual Studio Code)**;
+3. **Procure por "Arquivo" na parte superior do VSCode e em seguida clique em "Abrir Pasta" ou use**: `Ctrl+K` continue segurando Ctrl e pressione `O`;
+4. **Em seguida localize a pasta baixada desye projeto em seu computador**;
+5. **Selecione e clique em "Selecionar Pasta"**;
+6. **Instale a extensão "Live Server no VSCode**;
+7. **Depois de instalada, procure por "Go Live" na parte inferior direita do VSCode**;
+8. **Ao clicar em "Go Live" o projeto deve ser exibido no navegador.**
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
-2. Em **Content** uma breve descrição sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+## Como Contribuir
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+1. **Clone o projeto**: `git clone https://github.com/Adanson2022/_we_odonto.git`
+2. **Crie uma feature/branch**: `git checkout -b feature/NAME`
+3. **Contribua e faça o seu push no github posteriormente.**
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+## Licença
 
-|Serviços |Segunda a Sexta | Sábados | Feriados |
-|---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
-|||||
-
-3. **Menu** e **Footer** padrões em todas as páginas.
-
-
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
-    - Os telefones de contato (celular e whatsapp)
-    - Endereço completo da clínica
-    - Um Iframe com o Google Maps apontando o endereço da clínica
-    - Um formulário de contato com:
-        - Nome (type="text")
-        - E-mail (type="email")
-        - Assunto (type="text")
-        - Mensagem (textarea)
-        - Botões de envias e limpar formulário
-
-3. **Menu** e **Footer** padrões em todas as páginas.
-
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
+### Uso Educacional e não comercial.
