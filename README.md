@@ -4,7 +4,7 @@
 
 # WE.Odonto
 
-Site completo feito em HTML para conclusão de módulo do curso de HTML. O site foi criado pensando em oferecer um serviço odontológico, tudo fictício desde o nome WE.Odonto até o endereço.
+Site completo feito em HTML para conclusão de módulo do curso de HTML. O site foi criado pensando em oferecer um serviço odontológico, tudo fictício desde o nome "WE.Odonto" até o endereço no Google Maps.
 
 ## Tecnologias Utilizadas
 
